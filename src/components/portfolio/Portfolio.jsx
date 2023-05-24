@@ -1,11 +1,11 @@
 import React from 'react'
 // import GAMEBOY from '../../assets/gameboy.png'
-import IMG1 from '../../assets/gameboy.png'
+import IMG1 from '../../assets/gameboy.jpg'
 import IMG2 from '../../assets/arthive.jpg'
-// import IMG3 from '../../assets/portfolio1.jpg'
-// import IMG4 from '../../assets/portfolio1.jpg'
-// import IMG5 from '../../assets/portfolio1.jpg'
-// import IMG6 from '../../assets/portfolio1.jpg'
+import IMG3 from '../../assets/dentalclinic.png'
+import IMG4 from '../../assets/PizzaWebApp.png'
+import IMG5 from '../../assets/tictactoe.jpg'
+import IMG6 from '../../assets/ddbb.jpg'
 import './Portfolio.css'
 
 
@@ -19,38 +19,38 @@ const data = [
   },
   {
     id: 1,
-    image: IMG1,
+    image: IMG3,
     title: "Dental Clinic WebApp",
     github: "https://github.com/RamonFolguera/Frontend-for-a-Dental-Clinic-React-Redux",
     demo: ""
   },
   {
     id: 1,
-    image: IMG1,
+    image: IMG4,
     title: "Pizza WebApp Test",
     github: "https://github.com/RamonFolguera/Test_pizza_app_Ramon_Folguera",
     demo: ""
   }
   ,  {
     id: 1,
-    image: IMG1,
-    title: "Project1",
-    github: "https://github.com/RamonFolguera/Frontend-ArtHive-Social-Platform-React-Redux",
-    demo: "https://dribbble.com/Alien_pixels"
+    image: IMG6,
+    title: "Discord backend PHP Laravel",
+    github: "https://github.com/RamonFolguera/Backend-Discord-App-PHP-Laravel",
+    demo: ""
   }
   ,  {
     id: 1,
-    image: IMG1,
+    image: IMG5,
     title: "Tic tac toe with HTML, CSS and JS",
     github: "https://github.com/RamonFolguera/Tic-tac-toe-JavaScript-HTML-CSS",
-    demo: ""
+    demo: "https://www.youtube.com/watch?v=2LpsWEkbcJ0"
   },
   {
     id: 1,
     image: IMG1,
     title: "GameBoy Color with HTML, CSS and JS",
     github: "https://github.com/RamonFolguera/GameBoy-Color-with-HTML-and-CSS",
-    demo: "https://dribbble.com/Alien_pixels"
+    demo: "https://www.youtube.com/watch?v=6mHiMYztH9g"
   }
 ]
 
