@@ -22,24 +22,24 @@ export const About = () => {
           <article className="about_card">
             <FaAward className="about_icon" />
             <h5>Experience</h5>
-            <small>3+ Years Working</small>
+            <small>FullStack Develpment Bootcamp at GeeksHubs</small>
           </article>
-          <article className="about_card">
+          {/* <article className="about_card">
             <FiUsers className="about_icon" />
             <h5>Clients</h5>
             <small>200+ Clients Worldwide</small>
-          </article>
+          </article> */}
           <article className="about_card">
             <VscFolderLibrary className="about_icon" />
             <h5>Projects</h5>
-            <small>80+ Completed projects</small>
+            <small>10+ Completed projects</small>
           </article>
           </div>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi
-          accusantium in nisi temporibus aperiam voluptates quisquam rem
-          asperiores modi vel itaque repudiandae aspernatur iusto, alias soluta.
-          Consectetur alias atque nobis.
+        I have always been interested in technology and software development. Although they are very different from architecture, which has been my profession for the past years, I believe I can utilize my expertise in planning, problem-solving, and developing projects from the foundations up to the finished small details.
+        <p>
+        </p>
+        I have recently completed a Full Stack Developer Bootcamp at GeeksHubs in Valencia. This has prepared us at a great speed to manage big amounts of work in a short time and simulate a work environment situation.
         </p>
         <a href="#contact" className="btn btn-primary">
           Let's Talk
