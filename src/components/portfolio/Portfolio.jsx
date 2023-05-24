@@ -18,35 +18,35 @@ const data = [
     demo: "https://www.youtube.com/watch?v=RST-Q0JVop8&t=431s"
   },
   {
-    id: 1,
+    id: 2,
     image: IMG3,
     title: "Dental Clinic WebApp",
     github: "https://github.com/RamonFolguera/Frontend-for-a-Dental-Clinic-React-Redux",
     demo: ""
   },
   {
-    id: 1,
+    id: 3,
     image: IMG4,
     title: "Pizza WebApp Test",
     github: "https://github.com/RamonFolguera/Test_pizza_app_Ramon_Folguera",
     demo: ""
   }
   ,  {
-    id: 1,
+    id: 4,
     image: IMG6,
     title: "Discord backend PHP Laravel",
     github: "https://github.com/RamonFolguera/Backend-Discord-App-PHP-Laravel",
     demo: ""
   }
   ,  {
-    id: 1,
+    id: 5,
     image: IMG5,
     title: "Tic tac toe with HTML, CSS and JS",
     github: "https://github.com/RamonFolguera/Tic-tac-toe-JavaScript-HTML-CSS",
     demo: "https://www.youtube.com/watch?v=2LpsWEkbcJ0"
   },
   {
-    id: 1,
+    id: 6,
     image: IMG1,
     title: "GameBoy Color with HTML, CSS and JS",
     github: "https://github.com/RamonFolguera/GameBoy-Color-with-HTML-and-CSS",
